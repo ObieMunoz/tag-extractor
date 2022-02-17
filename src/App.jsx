@@ -43,7 +43,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Tag Extractor</h1>
-        <p>Paste your HTML snippet below to automatically extract tags into the table.</p>
+        <p>Paste your HTML snippet below to automatically extract key:value tags into the table.</p>
         <TextField
           id="outlined-multiline-static"
           label="Multiline"
