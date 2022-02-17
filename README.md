@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple React application that extracts tags from a text input and returns them in a table.
+This is a simple React application that extracts key:value tags from a text input and returns them in a table.
 
 ## Installation
 
