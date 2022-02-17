@@ -59,8 +59,8 @@ function App() {
           <Table className="tags" aria-label="simple table">
             <TableHead>
               <TableRow>
-                <TableCell align="center">Tag Name</TableCell>
-                <TableCell align="center">Value</TableCell>
+                <TableCell align="center" style={{ fontSize: '20px' }}><strong>Tag Name</strong></TableCell>
+                <TableCell align="center" style={{ fontSize: '20px' }}><strong>Value</strong></TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
